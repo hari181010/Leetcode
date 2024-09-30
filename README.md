@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/hari181010/Leetcode/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hari181010/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/hari181010/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0890-lemonade-change](https://github.com/hari181010/Leetcode/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/hari181010/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/hari181010/Leetcode/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/hari181010/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0890-lemonade-change](https://github.com/hari181010/Leetcode/tree/master/0890-lemonade-change) |
 ## Trie
 |  |
 | ------- |

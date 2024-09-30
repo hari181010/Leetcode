@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hari181010/Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/hari181010/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/hari181010/Leetcode/tree/master/0648-replace-words) |
+| [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hari181010/Leetcode/tree/master/0409-longest-palindrome) |
 | [0514-freedom-trail](https://github.com/hari181010/Leetcode/tree/master/0514-freedom-trail) |
 | [0648-replace-words](https://github.com/hari181010/Leetcode/tree/master/0648-replace-words) |
+| [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
 ## Sliding Window
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari181010/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/hari181010/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/hari181010/Leetcode/tree/master/0506-relative-ranks) |
+| [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
 ## Backtracking
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/hari181010/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Recursion
 |  |

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hari181010/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/hari181010/Leetcode/tree/master/0008-string-to-integer-atoi) |
 ## Sliding Window
 |  |
 | ------- |

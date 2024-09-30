@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/hari181010/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hari181010/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/hari181010/Leetcode/tree/master/1217-relative-sort-array) |
+| [1331-path-with-maximum-gold](https://github.com/hari181010/Leetcode/tree/master/1331-path-with-maximum-gold) |
 ## Hash Table
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/hari181010/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/hari181010/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/hari181010/Leetcode/tree/master/0140-word-break-ii) |
+| [1331-path-with-maximum-gold](https://github.com/hari181010/Leetcode/tree/master/1331-path-with-maximum-gold) |
 ## Linked List
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/hari181010/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/hari181010/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1331-path-with-maximum-gold](https://github.com/hari181010/Leetcode/tree/master/1331-path-with-maximum-gold) |
 ## Monotonic Stack
 |  |
 | ------- |

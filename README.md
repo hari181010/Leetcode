@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/hari181010/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hari181010/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/hari181010/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/hari181010/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1331-path-with-maximum-gold](https://github.com/hari181010/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/hari181010/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |

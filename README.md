@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/hari181010/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/hari181010/Leetcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/hari181010/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/hari181010/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/hari181010/Leetcode/tree/master/0876-hand-of-straights) |
+| [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## String
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/hari181010/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/hari181010/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/hari181010/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -567,10 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0514-freedom-trail](https://github.com/hari181010/Leetcode/tree/master/0514-freedom-trail) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hari181010/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Counting
 |  |
 | ------- |

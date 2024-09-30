@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hari181010/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hari181010/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hari181010/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Sliding Window
 |  |
 | ------- |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hari181010/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hari181010/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hari181010/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Memoization
 |  |
 | ------- |

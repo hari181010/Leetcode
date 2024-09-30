@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/hari181010/Leetcode/tree/master/0648-replace-words) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hari181010/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0853-most-profit-assigning-work](https://github.com/hari181010/Leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/hari181010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hari181010/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0853-most-profit-assigning-work](https://github.com/hari181010/Leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari181010/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/hari181010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0853-most-profit-assigning-work](https://github.com/hari181010/Leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/hari181010/Leetcode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/hari181010/Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/hari181010/Leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/hari181010/Leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Trie
 |  |
 | ------- |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/hari181010/Leetcode/tree/master/0506-relative-ranks) |
 | [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0853-most-profit-assigning-work](https://github.com/hari181010/Leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Backtracking
 |  |
 | ------- |

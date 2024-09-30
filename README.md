@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/hari181010/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hari181010/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/hari181010/Leetcode/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/hari181010/Leetcode/tree/master/1137-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/hari181010/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/hari181010/Leetcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/hari181010/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1137-height-checker](https://github.com/hari181010/Leetcode/tree/master/1137-height-checker) |
 ## Backtracking
 |  |
 | ------- |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/hari181010/Leetcode/tree/master/0948-sort-an-array) |
+| [1137-height-checker](https://github.com/hari181010/Leetcode/tree/master/1137-height-checker) |
 ## Queue
 |  |
 | ------- |

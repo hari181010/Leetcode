@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hari181010/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/hari181010/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/hari181010/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/hari181010/Leetcode/tree/master/0190-reverse-bits) |
 ## Math
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/hari181010/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/hari181010/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hari181010/Leetcode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/hari181010/Leetcode/tree/master/0190-reverse-bits) |
 ## Memoization
 |  |
 | ------- |

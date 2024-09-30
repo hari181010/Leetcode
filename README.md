@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/hari181010/Leetcode/tree/master/0140-word-break-ii) |
 | [0514-freedom-trail](https://github.com/hari181010/Leetcode/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/hari181010/Leetcode/tree/master/0552-student-attendance-record-ii) |
+| [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -547,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/hari181010/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Graph
+|  |
+| ------- |
+| [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->

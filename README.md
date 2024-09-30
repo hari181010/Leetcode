@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |

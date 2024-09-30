@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/hari181010/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/hari181010/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hari181010/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/hari181010/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hari181010/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/hari181010/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/hari181010/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/hari181010/Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |

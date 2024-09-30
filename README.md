@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hari181010/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hari181010/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hari181010/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hari181010/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/hari181010/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hari181010/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hari181010/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hari181010/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |

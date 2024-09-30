@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/hari181010/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/hari181010/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/hari181010/Leetcode/tree/master/0948-sort-an-array) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/hari181010/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/hari181010/Leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/hari181010/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0917-boats-to-save-people](https://github.com/hari181010/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/hari181010/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Trie
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/hari181010/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0917-boats-to-save-people](https://github.com/hari181010/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/hari181010/Leetcode/tree/master/0948-sort-an-array) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/hari181010/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Backtracking
 |  |
 | ------- |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hari181010/Leetcode/tree/master/0169-majority-element) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/hari181010/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Enumeration
 |  |
 | ------- |

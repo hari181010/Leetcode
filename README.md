@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hari181010/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hari181010/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hari181010/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/hari181010/Leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/hari181010/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hari181010/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/hari181010/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/hari181010/Leetcode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hari181010/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/hari181010/Leetcode/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |

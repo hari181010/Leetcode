@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/hari181010/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hari181010/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Greedy
 |  |
 | ------- |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hari181010/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -682,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hari181010/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->

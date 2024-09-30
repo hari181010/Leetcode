@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/hari181010/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/hari181010/Leetcode/tree/master/1217-relative-sort-array) |
 | [1331-path-with-maximum-gold](https://github.com/hari181010/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hari181010/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/hari181010/Leetcode/tree/master/1044-find-common-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hari181010/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/hari181010/Leetcode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hari181010/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hari181010/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/hari181010/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hari181010/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hari181010/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/hari181010/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/hari181010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/hari181010/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hari181010/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/hari181010/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hari181010/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hari181010/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hari181010/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Graph
 |  |
 | ------- |

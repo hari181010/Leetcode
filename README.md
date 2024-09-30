@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/hari181010/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hari181010/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hari181010/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/hari181010/Leetcode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hari181010/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hari181010/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hari181010/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hari181010/Leetcode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hari181010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/hari181010/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/hari181010/Leetcode/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |

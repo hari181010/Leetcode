@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hari181010/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/hari181010/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/hari181010/Leetcode/tree/master/0268-missing-number) |
+| [0330-patching-array](https://github.com/hari181010/Leetcode/tree/master/0330-patching-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/hari181010/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hari181010/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hari181010/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0330-patching-array](https://github.com/hari181010/Leetcode/tree/master/0330-patching-array) |
 ## Trie
 |  |
 | ------- |

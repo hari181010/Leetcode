@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hari181010/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/hari181010/Leetcode/tree/master/0140-word-break-ii) |
 | [0514-freedom-trail](https://github.com/hari181010/Leetcode/tree/master/0514-freedom-trail) |
+| [0552-student-attendance-record-ii](https://github.com/hari181010/Leetcode/tree/master/0552-student-attendance-record-ii) |
 ## Greedy
 |  |
 | ------- |

@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/hari181010/Leetcode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
 | [1044-find-common-characters](https://github.com/hari181010/Leetcode/tree/master/1044-find-common-characters) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hari181010/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/hari181010/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hari181010/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
 | ------- |

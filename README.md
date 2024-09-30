@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/hari181010/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hari181010/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/hari181010/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/hari181010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hari181010/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hari181010/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hari181010/Leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/hari181010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/hari181010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -267,4 +270,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari181010/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/hari181010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/hari181010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->

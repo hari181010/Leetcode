@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/hari181010/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/hari181010/Leetcode/tree/master/0861-flipping-an-image) |
+| [0870-magic-squares-in-grid](https://github.com/hari181010/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/hari181010/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/hari181010/Leetcode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/hari181010/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## String
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/hari181010/Leetcode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/hari181010/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/hari181010/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/hari181010/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hari181010/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/hari181010/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0861-flipping-an-image](https://github.com/hari181010/Leetcode/tree/master/0861-flipping-an-image) |
+| [0870-magic-squares-in-grid](https://github.com/hari181010/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Monotonic Stack
 |  |
 | ------- |

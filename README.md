@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/hari181010/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/hari181010/Leetcode/tree/master/0648-replace-words) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hari181010/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari181010/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/hari181010/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hari181010/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hari181010/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari181010/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/hari181010/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/hari181010/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/hari181010/Leetcode/tree/master/0506-relative-ranks) |
 | [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Backtracking
 |  |
 | ------- |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/hari181010/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0502-ipo](https://github.com/hari181010/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/hari181010/Leetcode/tree/master/0506-relative-ranks) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Merge Sort
 |  |
 | ------- |

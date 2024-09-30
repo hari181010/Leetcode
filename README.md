@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/hari181010/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/hari181010/Leetcode/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hari181010/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/hari181010/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/hari181010/Leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/hari181010/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/hari181010/Leetcode/tree/master/0876-hand-of-straights) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/hari181010/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 ## Trie
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/hari181010/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/hari181010/Leetcode/tree/master/0876-hand-of-straights) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/hari181010/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 ## Backtracking
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/hari181010/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/hari181010/Leetcode/tree/master/0506-relative-ranks) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/hari181010/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/hari181010/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 ## Merge Sort
 |  |
 | ------- |

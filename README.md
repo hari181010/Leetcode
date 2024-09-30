@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/hari181010/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hari181010/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1044-find-common-characters](https://github.com/hari181010/Leetcode/tree/master/1044-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/hari181010/Leetcode/tree/master/0876-hand-of-straights) |
 | [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/hari181010/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1044-find-common-characters](https://github.com/hari181010/Leetcode/tree/master/1044-find-common-characters) |
 ## String
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/hari181010/Leetcode/tree/master/0514-freedom-trail) |
 | [0648-replace-words](https://github.com/hari181010/Leetcode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/hari181010/Leetcode/tree/master/0726-number-of-atoms) |
+| [1044-find-common-characters](https://github.com/hari181010/Leetcode/tree/master/1044-find-common-characters) |
 ## Sliding Window
 |  |
 | ------- |

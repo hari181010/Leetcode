@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hari181010/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/hari181010/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/hari181010/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/hari181010/Leetcode/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/hari181010/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/hari181010/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/hari181010/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/hari181010/Leetcode/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hari181010/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/hari181010/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/hari181010/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/hari181010/Leetcode/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |

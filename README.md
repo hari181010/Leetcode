@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/hari181010/Leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/hari181010/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0917-boats-to-save-people](https://github.com/hari181010/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0921-spiral-matrix-iii](https://github.com/hari181010/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/hari181010/Leetcode/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/hari181010/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/hari181010/Leetcode/tree/master/0891-score-after-flipping-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/hari181010/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/hari181010/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/hari181010/Leetcode/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/hari181010/Leetcode/tree/master/0861-flipping-an-image) |
+| [0921-spiral-matrix-iii](https://github.com/hari181010/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Bit Manipulation
 |  |
 | ------- |

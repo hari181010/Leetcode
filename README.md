@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hari181010/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/hari181010/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hari181010/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/hari181010/Leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hari181010/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/hari181010/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hari181010/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/hari181010/Leetcode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,4 +203,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hari181010/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/hari181010/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hari181010/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/hari181010/Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/hari181010/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

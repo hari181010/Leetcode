@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/hari181010/Leetcode/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hari181010/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari181010/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/hari181010/Leetcode/tree/master/0502-ipo) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hari181010/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/hari181010/Leetcode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/hari181010/Leetcode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/hari181010/Leetcode/tree/master/0502-ipo) |
 ## Trie
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hari181010/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hari181010/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari181010/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/hari181010/Leetcode/tree/master/0502-ipo) |
 ## Backtracking
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hari181010/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0502-ipo](https://github.com/hari181010/Leetcode/tree/master/0502-ipo) |
 ## Merge Sort
 |  |
 | ------- |

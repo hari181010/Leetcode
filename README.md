@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/hari181010/Leetcode/tree/master/1217-relative-sort-array) |
 | [1331-path-with-maximum-gold](https://github.com/hari181010/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hari181010/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/hari181010/Leetcode/tree/master/1044-find-common-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hari181010/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hari181010/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/hari181010/Leetcode/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/hari181010/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Greedy
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hari181010/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/hari181010/Leetcode/tree/master/0140-word-break-ii) |
 | [1331-path-with-maximum-gold](https://github.com/hari181010/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Linked List
 |  |
 | ------- |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/hari181010/Leetcode/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/hari181010/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hari181010/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Memoization
 |  |
 | ------- |
@@ -663,4 +668,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hari181010/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->

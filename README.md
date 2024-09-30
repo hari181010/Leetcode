@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/hari181010/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hari181010/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hari181010/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hari181010/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/hari181010/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/hari181010/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hari181010/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hari181010/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/hari181010/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/hari181010/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/hari181010/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hari181010/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/hari181010/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/hari181010/Leetcode/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hari181010/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hari181010/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
 |  |
 | ------- |

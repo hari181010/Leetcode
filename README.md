@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/hari181010/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hari181010/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/hari181010/Leetcode/tree/master/1217-relative-sort-array) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/hari181010/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1331-path-with-maximum-gold](https://github.com/hari181010/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hari181010/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/hari181010/Leetcode/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/hari181010/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0863-sum-of-distances-in-tree](https://github.com/hari181010/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/hari181010/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/hari181010/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Greedy
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/hari181010/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/hari181010/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/hari181010/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/hari181010/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1331-path-with-maximum-gold](https://github.com/hari181010/Leetcode/tree/master/1331-path-with-maximum-gold) |
 ## Monotonic Stack
 |  |

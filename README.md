@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/hari181010/Leetcode/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/hari181010/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/hari181010/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/hari181010/Leetcode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/hari181010/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/hari181010/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/hari181010/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/hari181010/Leetcode/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -414,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hari181010/Leetcode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hari181010/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hari181010/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

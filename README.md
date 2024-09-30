@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/hari181010/Leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/hari181010/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hari181010/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1217-relative-sort-array](https://github.com/hari181010/Leetcode/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/hari181010/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/hari181010/Leetcode/tree/master/1044-find-common-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hari181010/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1217-relative-sort-array](https://github.com/hari181010/Leetcode/tree/master/1217-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/hari181010/Leetcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/hari181010/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/hari181010/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/hari181010/Leetcode/tree/master/1217-relative-sort-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/hari181010/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/hari181010/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/hari181010/Leetcode/tree/master/1217-relative-sort-array) |
 ## Queue
 |  |
 | ------- |

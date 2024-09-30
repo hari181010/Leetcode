@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/hari181010/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/hari181010/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/hari181010/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/hari181010/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/hari181010/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/hari181010/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hari181010/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/hari181010/Leetcode/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/hari181010/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/hari181010/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/hari181010/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/hari181010/Leetcode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
